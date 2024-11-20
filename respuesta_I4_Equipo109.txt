@@ -8,3 +8,12 @@ C- AMARILLO
 
 D- EL DE BETA.
 
+E- si, todos menos el primero.
+
+F- surgian conflictos en los contenidos de los archivos, y que no estaban actualizados.
+
+G- usamos git pull para actualizar la rama y luego modificamos el archivo con nano y borramos las diferencias que habia entre el push anterior y el propio.
+
+H- lo que sucede es que se fuerza el push y creas conflictos y perdida de datos.
+
+I- Lo que hicimos en el punto G. un pull y luego modificar los conflictos.
